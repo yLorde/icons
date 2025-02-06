@@ -6,6 +6,12 @@
 - Linkedin: `https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/16/linkedin.png`
 - Discord: `https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/16/discord.png`
 
+### 32px
+- GitHub: `https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/32/github.png`
+- Gmail: `https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/32/gmail.png`
+- Linkedin: `https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/32/linkedin.png`
+- Discord: `https://raw.githubusercontent.com/yLorde/icons/refs/heads/main/apps/32/discord.png`
+
 ## Languages
 
 ### 16px
